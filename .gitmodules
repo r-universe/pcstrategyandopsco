@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "brightspaceR"]
+	path = brightspaceR
+	url = https://github.com/pcstrategyandopsco/brightspacer
+[submodule "dialvalidator"]
+	path = dialvalidator
+	url = https://github.com/pcstrategyandopsco/dialvalidator
