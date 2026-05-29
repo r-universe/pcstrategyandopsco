@@ -5,6 +5,3 @@
 [submodule "brightspaceR"]
 	path = brightspaceR
 	url = https://github.com/pcstrategyandopsco/brightspacer
-[submodule "dialvalidator"]
-	path = dialvalidator
-	url = https://github.com/pcstrategyandopsco/dialvalidator
